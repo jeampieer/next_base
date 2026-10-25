@@ -1,9 +1,14 @@
 # next-base
 
-Plantilla de panel administrativo con Next.js App Router, TypeScript estricto,
-Ant Design y arquitectura por features y capas. Autenticación JWT con cookies
-httpOnly, perfil, contraseñas, usuarios y un ejemplo funcional de etiquetas (Label).
-Código en inglés; interfaz y documentación en español.
+Este proyecto es el resultado de años de trabajo refinando y mejorando la
+arquitectura de mis proyectos frontend con React y Next.js. Reúne esa experiencia
+en una base reutilizable para nuevos proyectos.
+
+Plantilla reutilizable de frontend para paneles administrativos con Next.js App
+Router, TypeScript estricto y Ant Design. Incluye autenticación JWT con cookies
+httpOnly, gestión de usuarios, perfil y contraseñas, y un módulo de ejemplo de
+etiquetas (Label) para construir nuevos proyectos con arquitectura modular por
+features y capas. Código en inglés; interfaz y documentación en español.
 
 ## Instalación
 
@@ -74,3 +79,7 @@ docs/                   documentación canónica
 
 Consulta [el índice](docs/INDEX.md), [arquitectura](docs/architecture.md),
 [el checklist](docs/new-feature-checklist.md) y [verificación](docs/verification.md).
+
+## Autor
+
+Desarrollado por [Jeampieer](https://portfolio-jeampieer.vercel.app/).
