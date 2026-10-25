@@ -1,0 +1,27 @@
+.shell {
+    min-height: 100vh;
+}
+.title {
+    padding: 16px;
+}
+.header {
+    background: white;
+    padding: 0 24px;
+}
+.content {
+    padding: 24px;
+}
+.mobileMenu {
+    display: none;
+}
+@media (max-width: 767px) {
+    .sidebar {
+        display: none;
+    }
+    .mobileMenu {
+        display: inline-flex;
+    }
+    .content {
+        padding: 12px;
+    }
+}
